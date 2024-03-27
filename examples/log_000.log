@@ -1,0 +1,432 @@
+2022-02-02 16:17:09.102 INFO Basic Utilities is starting. Running version 2.25.5. Issnapshot is False
+2022-02-02 16:17:09.113 WARN Could not find Appdata file.
+2022-02-02 16:17:09.132 INFO Appdata initialization is complete
+2022-02-02 16:17:09.153 INFO Updated Appdata with {'besttime': 0, 'bcount': 0, 'btime': {'year': None, 'month': None, 'day': None, 'hour': None, 'minute': None, 'second': None}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-02 16:17:09.685 INFO User is connected to the internet
+2022-02-02 16:17:09.693 WARN Could not find sound file. Downloading
+2022-02-02 16:17:11.870 INFO Updated Appdata with {'besttime': 0, 'bcount': 1, 'btime': {'year': None, 'month': None, 'day': None, 'hour': None, 'minute': None, 'second': None}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-02 16:17:11.878 INFO Updated Appdata with {'besttime': 0, 'bcount': 1, 'btime': {'year': 2022, 'month': 2, 'day': 2, 'hour': 16, 'minute': 17, 'second': 11}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-02 16:17:11.884 INFO Startup is finished. Took 2776 milliseconds
+2022-02-02 16:17:11.889 WARN Could not find temp dir
+2022-02-03 15:33:38.168 INFO Basic Utilities is starting. Running version 2.25.5. Issnapshot is False
+2022-02-03 15:33:38.168 INFO Loading Appdata
+2022-02-03 15:33:38.190 INFO Appdata initialization is complete
+2022-02-03 15:33:38.190 INFO Updated Appdata with {'besttime': 0, 'bcount': 1, 'btime': {'year': 2022, 'month': 2, 'day': 2, 'hour': 16, 'minute': 17, 'second': 11}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-03 15:33:38.591 INFO User is connected to the internet
+2022-02-03 15:33:38.692 INFO Updated Appdata with {'besttime': 0, 'bcount': 2, 'btime': {'year': 2022, 'month': 2, 'day': 2, 'hour': 16, 'minute': 17, 'second': 11}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-03 15:33:38.692 INFO Updated Appdata with {'besttime': 0, 'bcount': 2, 'btime': {'year': 2022, 'month': 2, 'day': 3, 'hour': 15, 'minute': 33, 'second': 38}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-03 15:33:38.707 INFO Startup is finished. Took 523 milliseconds
+2022-02-03 15:33:41.216 INFO DefaultUser executed command ytaudio
+2022-02-04 09:27:48.885 INFO Basic Utilities is starting. Running version 2.25.5. Issnapshot is False
+2022-02-04 09:27:48.912 INFO Loading Appdata
+2022-02-04 09:27:48.929 INFO Appdata initialization is complete
+2022-02-04 09:27:48.940 INFO Updated Appdata with {'besttime': 0, 'bcount': 2, 'btime': {'year': 2022, 'month': 2, 'day': 3, 'hour': 15, 'minute': 33, 'second': 38}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:27:49.547 INFO User is connected to the internet
+2022-02-04 09:27:50.595 INFO Updated Appdata with {'besttime': 0, 'bcount': 3, 'btime': {'year': 2022, 'month': 2, 'day': 3, 'hour': 15, 'minute': 33, 'second': 38}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:27:50.627 INFO Updated Appdata with {'besttime': 0, 'bcount': 3, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 27, 'second': 50}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:27:50.647 INFO Startup is finished. Took 1744 milliseconds
+2022-02-04 09:27:52.663 INFO DefaultUser executed command encode
+2022-02-04 09:34:05.291 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:34:05.305 INFO Loading Appdata
+2022-02-04 09:34:05.322 INFO Appdata initialization is complete
+2022-02-04 09:34:05.333 INFO Updated Appdata with {'besttime': 0, 'bcount': 3, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 27, 'second': 50}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:34:06.026 INFO User is connected to the internet
+2022-02-04 09:34:06.192 INFO Updated Appdata with {'besttime': 0, 'bcount': 4, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 27, 'second': 50}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:34:06.217 INFO Updated Appdata with {'besttime': 0, 'bcount': 4, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 34, 'second': 6}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:34:06.235 INFO Startup is finished. Took 926 milliseconds
+2022-02-04 09:34:09.242 INFO DefaultUser executed command calc
+2022-02-04 09:35:12.931 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:35:12.954 INFO Loading Appdata
+2022-02-04 09:35:12.971 INFO Appdata initialization is complete
+2022-02-04 09:35:12.990 INFO Updated Appdata with {'besttime': 0, 'bcount': 4, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 34, 'second': 6}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:35:14.083 INFO User is connected to the internet
+2022-02-04 09:35:15.110 INFO Updated Appdata with {'besttime': 0, 'bcount': 5, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 34, 'second': 6}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:35:15.181 INFO Updated Appdata with {'besttime': 0, 'bcount': 5, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 35, 'second': 15}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:35:15.265 INFO Startup is finished. Took 2331 milliseconds
+2022-02-04 09:35:17.144 INFO DefaultUser executed command calc
+2022-02-04 09:35:45.517 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:35:45.549 INFO Loading Appdata
+2022-02-04 09:35:45.580 INFO Appdata initialization is complete
+2022-02-04 09:35:45.596 INFO Updated Appdata with {'besttime': 0, 'bcount': 5, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 35, 'second': 15}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:35:46.152 INFO User is connected to the internet
+2022-02-04 09:35:46.356 INFO Updated Appdata with {'besttime': 0, 'bcount': 6, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 35, 'second': 15}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:35:46.403 INFO Updated Appdata with {'besttime': 0, 'bcount': 6, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 35, 'second': 46}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:35:46.676 INFO Startup is finished. Took 1158 milliseconds
+2022-02-04 09:35:47.751 INFO DefaultUser executed command calc
+2022-02-04 09:39:04.065 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:39:04.083 INFO Loading Appdata
+2022-02-04 09:39:04.110 INFO Appdata initialization is complete
+2022-02-04 09:39:04.127 INFO Updated Appdata with {'besttime': 0, 'bcount': 6, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 35, 'second': 46}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:39:05.440 INFO User is connected to the internet
+2022-02-04 09:39:05.760 INFO Updated Appdata with {'besttime': 0, 'bcount': 7, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 35, 'second': 46}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:39:05.851 INFO Updated Appdata with {'besttime': 0, 'bcount': 7, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 39, 'second': 5}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:39:05.897 INFO Startup is finished. Took 1830 milliseconds
+2022-02-04 09:39:08.340 INFO DefaultUser executed command calc
+2022-02-04 09:47:06.517 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:47:06.552 INFO Loading Appdata
+2022-02-04 09:47:06.565 INFO Appdata initialization is complete
+2022-02-04 09:47:06.584 INFO Updated Appdata with {'besttime': 0, 'bcount': 7, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 39, 'second': 5}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:47:07.434 INFO User is connected to the internet
+2022-02-04 09:47:07.698 INFO Updated Appdata with {'besttime': 0, 'bcount': 8, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 39, 'second': 5}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:47:07.802 INFO Updated Appdata with {'besttime': 0, 'bcount': 8, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 47, 'second': 7}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:47:07.903 INFO Startup is finished. Took 1349 milliseconds
+2022-02-04 09:47:08.725 INFO DefaultUser executed command calc
+2022-02-04 09:48:04.329 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:48:04.349 INFO Loading Appdata
+2022-02-04 09:48:04.365 INFO Appdata initialization is complete
+2022-02-04 09:48:04.385 INFO Updated Appdata with {'besttime': 0, 'bcount': 8, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 47, 'second': 7}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:48:04.956 INFO User is connected to the internet
+2022-02-04 09:48:05.139 INFO Updated Appdata with {'besttime': 0, 'bcount': 9, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 47, 'second': 7}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:48:05.208 INFO Updated Appdata with {'besttime': 0, 'bcount': 9, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 48, 'second': 5}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:48:05.574 INFO Startup is finished. Took 1242 milliseconds
+2022-02-04 09:48:09.231 INFO DefaultUser executed command calc
+2022-02-04 09:48:45.402 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:48:45.420 INFO Loading Appdata
+2022-02-04 09:48:45.444 INFO Appdata initialization is complete
+2022-02-04 09:48:45.462 INFO Updated Appdata with {'besttime': 0, 'bcount': 9, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 48, 'second': 5}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:48:45.975 INFO User is connected to the internet
+2022-02-04 09:48:46.124 INFO Updated Appdata with {'besttime': 0, 'bcount': 10, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 48, 'second': 5}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:48:46.265 INFO Updated Appdata with {'besttime': 0, 'bcount': 10, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 48, 'second': 46}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:48:46.296 INFO Startup is finished. Took 868 milliseconds
+2022-02-04 09:48:46.944 INFO DefaultUser executed command calc
+2022-02-04 09:51:39.576 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:51:39.594 INFO Loading Appdata
+2022-02-04 09:51:39.618 INFO Appdata initialization is complete
+2022-02-04 09:51:39.636 INFO Updated Appdata with {'besttime': 0, 'bcount': 10, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 48, 'second': 46}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:51:40.368 INFO User is connected to the internet
+2022-02-04 09:51:40.550 INFO Updated Appdata with {'besttime': 0, 'bcount': 11, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 48, 'second': 46}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:51:40.604 INFO Updated Appdata with {'besttime': 0, 'bcount': 11, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 51, 'second': 40}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:51:40.618 INFO Startup is finished. Took 1029 milliseconds
+2022-02-04 09:51:45.920 INFO DefaultUser executed command calc
+2022-02-04 09:51:46.792 FATAL NameError
+name 'disabled' is not defined
+  File "C:\Python310\Scripts\BasicUtilities\BasicUtilities.py", line 4438, in <module>
+    lbl1["state"] = disabled
+
+2022-02-04 09:52:14.273 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:52:14.293 INFO Loading Appdata
+2022-02-04 09:52:14.310 INFO Appdata initialization is complete
+2022-02-04 09:52:14.327 INFO Updated Appdata with {'besttime': 0, 'bcount': 11, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 51, 'second': 40}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:52:14.957 INFO User is connected to the internet
+2022-02-04 09:52:15.171 INFO Updated Appdata with {'besttime': 0, 'bcount': 12, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 51, 'second': 40}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:52:15.193 INFO Updated Appdata with {'besttime': 0, 'bcount': 12, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 52, 'second': 15}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:52:15.224 INFO Startup is finished. Took 935 milliseconds
+2022-02-04 09:52:17.787 INFO DefaultUser executed command calc
+2022-02-04 09:53:18.590 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:53:18.611 INFO Loading Appdata
+2022-02-04 09:53:18.626 INFO Appdata initialization is complete
+2022-02-04 09:53:18.641 INFO Updated Appdata with {'besttime': 0, 'bcount': 12, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 52, 'second': 15}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:53:19.238 INFO User is connected to the internet
+2022-02-04 09:53:19.424 INFO Updated Appdata with {'besttime': 0, 'bcount': 13, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 52, 'second': 15}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:53:19.472 INFO Updated Appdata with {'besttime': 0, 'bcount': 13, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 53, 'second': 19}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:53:19.488 INFO Startup is finished. Took 882 milliseconds
+2022-02-04 09:53:20.317 INFO DefaultUser executed command calc
+2022-02-04 09:54:48.920 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:54:48.939 INFO Loading Appdata
+2022-02-04 09:54:48.954 INFO Appdata initialization is complete
+2022-02-04 09:54:48.969 INFO Updated Appdata with {'besttime': 0, 'bcount': 13, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 53, 'second': 19}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:54:49.392 INFO User is connected to the internet
+2022-02-04 09:54:49.523 INFO Updated Appdata with {'besttime': 0, 'bcount': 14, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 53, 'second': 19}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:54:49.541 INFO Updated Appdata with {'besttime': 0, 'bcount': 14, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 54, 'second': 49}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:54:49.553 INFO Startup is finished. Took 620 milliseconds
+2022-02-04 09:54:49.888 INFO DefaultUser executed command calc
+2022-02-04 09:55:34.230 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:55:34.242 INFO Loading Appdata
+2022-02-04 09:55:34.257 INFO Appdata initialization is complete
+2022-02-04 09:55:34.271 INFO Updated Appdata with {'besttime': 0, 'bcount': 14, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 54, 'second': 49}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:55:34.656 INFO User is connected to the internet
+2022-02-04 09:55:34.779 INFO Updated Appdata with {'besttime': 0, 'bcount': 15, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 54, 'second': 49}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:55:34.804 INFO Updated Appdata with {'besttime': 0, 'bcount': 15, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 55, 'second': 34}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:55:34.821 INFO Startup is finished. Took 575 milliseconds
+2022-02-04 09:55:37.186 INFO DefaultUser executed command calc
+2022-02-04 09:56:18.283 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:56:18.292 INFO Loading Appdata
+2022-02-04 09:56:18.307 INFO Appdata initialization is complete
+2022-02-04 09:56:18.316 INFO Updated Appdata with {'besttime': 0, 'bcount': 15, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 55, 'second': 34}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:56:18.613 INFO User is connected to the internet
+2022-02-04 09:56:18.727 INFO Updated Appdata with {'besttime': 0, 'bcount': 16, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 55, 'second': 34}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:56:18.744 INFO Updated Appdata with {'besttime': 0, 'bcount': 16, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 56, 'second': 18}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:56:18.752 INFO Startup is finished. Took 462 milliseconds
+2022-02-04 09:56:20.185 INFO DefaultUser executed command calc
+2022-02-04 09:56:56.481 INFO DefaultUser executed command hi
+2022-02-04 09:56:58.042 INFO DefaultUser executed command 20
+2022-02-04 09:57:38.046 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-04 09:57:38.054 INFO Loading Appdata
+2022-02-04 09:57:38.066 INFO Appdata initialization is complete
+2022-02-04 09:57:38.074 INFO Updated Appdata with {'besttime': 0, 'bcount': 16, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 56, 'second': 18}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:57:38.396 INFO User is connected to the internet
+2022-02-04 09:57:38.505 INFO Updated Appdata with {'besttime': 0, 'bcount': 17, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 56, 'second': 18}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:57:38.522 INFO Updated Appdata with {'besttime': 0, 'bcount': 17, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 57, 'second': 38}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-04 09:57:38.546 INFO Startup is finished. Took 484 milliseconds
+2022-02-04 09:57:40.787 INFO DefaultUser executed command calc
+2022-02-05 08:40:21.638 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-05 08:40:21.654 INFO Loading Appdata
+2022-02-05 08:40:21.679 INFO Appdata initialization is complete
+2022-02-05 08:40:21.691 INFO Updated Appdata with {'besttime': 0, 'bcount': 17, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 57, 'second': 38}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:40:22.564 INFO User is connected to the internet
+2022-02-05 08:40:23.966 INFO Updated Appdata with {'besttime': 0, 'bcount': 18, 'btime': {'year': 2022, 'month': 2, 'day': 4, 'hour': 9, 'minute': 57, 'second': 38}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:40:24.142 INFO Updated Appdata with {'besttime': 0, 'bcount': 18, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 40, 'second': 24}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:40:24.317 INFO Startup is finished. Took 2662 milliseconds
+2022-02-05 08:40:38.878 INFO DefaultUser executed command 
+2022-02-05 08:40:39.770 INFO DefaultUser executed command 
+2022-02-05 08:40:40.497 INFO DefaultUser executed command 
+2022-02-05 08:40:40.795 INFO DefaultUser executed command 
+2022-02-05 08:40:41.184 INFO DefaultUser executed command 
+2022-02-05 08:40:41.497 INFO DefaultUser executed command 
+2022-02-05 08:40:41.982 INFO DefaultUser executed command 
+2022-02-05 08:40:42.299 INFO DefaultUser executed command 
+2022-02-05 08:40:42.751 INFO DefaultUser executed command 
+2022-02-05 08:40:43.155 INFO DefaultUser executed command 
+2022-02-05 08:40:44.802 INFO DefaultUser executed command 
+2022-02-05 08:40:48.333 INFO DefaultUser executed command 
+2022-02-05 08:40:48.788 INFO DefaultUser executed command 
+2022-02-05 08:40:49.202 INFO DefaultUser executed command 
+2022-02-05 08:40:49.977 INFO DefaultUser executed command 
+2022-02-05 08:40:50.654 INFO DefaultUser executed command 
+2022-02-05 08:40:51.217 INFO DefaultUser executed command 
+2022-02-05 08:40:51.955 INFO DefaultUser executed command 
+2022-02-05 08:40:52.128 INFO DefaultUser executed command 
+2022-02-05 08:40:52.511 INFO DefaultUser executed command 
+2022-02-05 08:41:55.296 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-05 08:41:55.313 INFO Loading Appdata
+2022-02-05 08:41:55.339 INFO Appdata initialization is complete
+2022-02-05 08:41:55.352 INFO Updated Appdata with {'besttime': 0, 'bcount': 18, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 40, 'second': 24}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:41:55.933 INFO User is connected to the internet
+2022-02-05 08:41:56.074 INFO Updated Appdata with {'besttime': 0, 'bcount': 19, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 40, 'second': 24}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:41:56.099 INFO Updated Appdata with {'besttime': 0, 'bcount': 19, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 41, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:41:56.207 INFO Startup is finished. Took 874 milliseconds
+2022-02-05 08:41:57.439 INFO DefaultUser executed command 
+2022-02-05 08:41:57.457 ERROR Invalid notifs
+2022-02-05 08:41:57.472 INFO Updated Appdata with {'besttime': 0, 'bcount': 19, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 41, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:41:57.951 INFO DefaultUser executed command 
+2022-02-05 08:41:57.967 ERROR Invalid notifs
+2022-02-05 08:41:57.982 INFO Updated Appdata with {'besttime': 0, 'bcount': 19, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 41, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:41:58.450 INFO DefaultUser executed command 
+2022-02-05 08:41:58.469 ERROR Invalid notifs
+2022-02-05 08:41:58.487 INFO Updated Appdata with {'besttime': 0, 'bcount': 19, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 41, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:41:58.958 INFO DefaultUser executed command 
+2022-02-05 08:41:58.981 ERROR Invalid notifs
+2022-02-05 08:41:58.998 INFO Updated Appdata with {'besttime': 0, 'bcount': 19, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 41, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:42:00.214 INFO DefaultUser executed command 
+2022-02-05 08:42:00.225 ERROR Invalid notifs
+2022-02-05 08:42:00.245 INFO Updated Appdata with {'besttime': 0, 'bcount': 19, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 41, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:42:00.364 INFO DefaultUser executed command 
+2022-02-05 08:42:00.378 ERROR Invalid notifs
+2022-02-05 08:42:00.394 INFO Updated Appdata with {'besttime': 0, 'bcount': 19, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 41, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:42:00.487 INFO DefaultUser executed command 
+2022-02-05 08:42:00.505 ERROR Invalid notifs
+2022-02-05 08:42:00.519 INFO Updated Appdata with {'besttime': 0, 'bcount': 19, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 41, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:50:55.356 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-05 08:50:55.372 INFO Loading Appdata
+2022-02-05 08:50:55.397 INFO Appdata initialization is complete
+2022-02-05 08:50:55.412 INFO Updated Appdata with {'besttime': 0, 'bcount': 19, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 41, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:50:55.865 INFO User is connected to the internet
+2022-02-05 08:50:56.022 INFO Updated Appdata with {'besttime': 0, 'bcount': 20, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 41, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:50:56.044 INFO Updated Appdata with {'besttime': 0, 'bcount': 20, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 50, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:50:56.074 INFO Startup is finished. Took 697 milliseconds
+2022-02-05 08:50:59.441 INFO DefaultUser executed command conv cmd
+2022-02-05 08:52:04.447 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-05 08:52:04.461 INFO Loading Appdata
+2022-02-05 08:52:04.481 INFO Appdata initialization is complete
+2022-02-05 08:52:04.488 INFO Updated Appdata with {'besttime': 0, 'bcount': 20, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 50, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:52:04.834 INFO User is connected to the internet
+2022-02-05 08:52:04.975 INFO Updated Appdata with {'besttime': 0, 'bcount': 21, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 50, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:52:05.000 INFO Updated Appdata with {'besttime': 0, 'bcount': 21, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 52, 'second': 4}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-05 08:52:05.017 INFO Startup is finished. Took 556 milliseconds
+2022-02-05 08:52:07.614 INFO DefaultUser executed command conv cmd
+2022-02-08 19:42:37.965 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-08 19:42:37.981 INFO Loading Appdata
+2022-02-08 19:42:37.993 INFO Appdata initialization is complete
+2022-02-08 19:42:37.993 INFO Updated Appdata with {'besttime': 0, 'bcount': 21, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 52, 'second': 4}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-08 19:42:38.453 INFO User is connected to the internet
+2022-02-08 19:42:39.746 INFO Updated Appdata with {'besttime': 0, 'bcount': 22, 'btime': {'year': 2022, 'month': 2, 'day': 5, 'hour': 8, 'minute': 52, 'second': 4}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-08 19:42:39.746 INFO Updated Appdata with {'besttime': 0, 'bcount': 22, 'btime': {'year': 2022, 'month': 2, 'day': 8, 'hour': 19, 'minute': 42, 'second': 39}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-08 19:42:39.758 INFO Startup is finished. Took 1793 milliseconds
+2022-02-08 19:42:40.948 INFO DefaultUser executed command ytaudio
+2022-02-09 16:16:45.375 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 16:16:45.382 INFO Loading Appdata
+2022-02-09 16:16:45.401 INFO Appdata initialization is complete
+2022-02-09 16:16:45.407 INFO Updated Appdata with {'besttime': 0, 'bcount': 22, 'btime': {'year': 2022, 'month': 2, 'day': 8, 'hour': 19, 'minute': 42, 'second': 39}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 16:16:45.796 INFO User is connected to the internet
+2022-02-09 16:16:46.870 INFO Updated Appdata with {'besttime': 0, 'bcount': 23, 'btime': {'year': 2022, 'month': 2, 'day': 8, 'hour': 19, 'minute': 42, 'second': 39}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 16:16:46.887 INFO Updated Appdata with {'besttime': 0, 'bcount': 23, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 16, 'minute': 16, 'second': 46}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 16:16:46.909 INFO Startup is finished. Took 1521 milliseconds
+2022-02-09 16:18:26.539 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 16:18:26.549 INFO Loading Appdata
+2022-02-09 16:18:26.566 INFO Appdata initialization is complete
+2022-02-09 16:18:26.576 INFO Updated Appdata with {'besttime': 0, 'bcount': 23, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 16, 'minute': 16, 'second': 46}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 16:18:26.890 INFO User is connected to the internet
+2022-02-09 16:18:27.013 INFO Updated Appdata with {'besttime': 0, 'bcount': 24, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 16, 'minute': 16, 'second': 46}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 16:18:27.046 INFO Updated Appdata with {'besttime': 0, 'bcount': 24, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 16, 'minute': 18, 'second': 27}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 16:18:27.071 INFO Startup is finished. Took 516 milliseconds
+2022-02-09 16:18:29.469 INFO DefaultUser executed command decbin
+2022-02-09 16:19:02.956 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 16:19:02.966 INFO Loading Appdata
+2022-02-09 16:19:02.989 INFO Appdata initialization is complete
+2022-02-09 16:19:03.005 INFO Updated Appdata with {'besttime': 0, 'bcount': 24, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 16, 'minute': 18, 'second': 27}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 16:19:03.383 INFO User is connected to the internet
+2022-02-09 16:19:03.502 INFO Updated Appdata with {'besttime': 0, 'bcount': 25, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 16, 'minute': 18, 'second': 27}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 16:19:03.517 INFO Updated Appdata with {'besttime': 0, 'bcount': 25, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 16, 'minute': 19, 'second': 3}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 16:19:03.534 INFO Startup is finished. Took 567 milliseconds
+2022-02-09 16:19:10.051 INFO DefaultUser executed command decbin
+2022-02-09 16:21:03.693 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 16:21:03.702 INFO Loading Appdata
+2022-02-09 16:21:03.716 INFO Appdata initialization is complete
+2022-02-09 16:21:03.724 INFO Updated Appdata with {'besttime': 0, 'bcount': 25, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 16, 'minute': 19, 'second': 3}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 16:21:04.031 INFO User is connected to the internet
+2022-02-09 16:21:04.134 INFO Updated Appdata with {'besttime': 0, 'bcount': 26, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 16, 'minute': 19, 'second': 3}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 16:21:04.148 INFO Updated Appdata with {'besttime': 0, 'bcount': 26, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 16, 'minute': 21, 'second': 4}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 16:21:04.167 INFO Startup is finished. Took 462 milliseconds
+2022-02-09 16:21:06.281 INFO DefaultUser executed command dechex
+2022-02-09 17:06:24.142 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:06:24.156 INFO Loading Appdata
+2022-02-09 17:06:24.173 INFO Appdata initialization is complete
+2022-02-09 17:06:24.181 INFO Updated Appdata with {'besttime': 0, 'bcount': 26, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 16, 'minute': 21, 'second': 4}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:06:24.513 INFO User is connected to the internet
+2022-02-09 17:06:25.526 INFO Updated Appdata with {'besttime': 0, 'bcount': 27, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 16, 'minute': 21, 'second': 4}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:06:25.549 INFO Updated Appdata with {'besttime': 0, 'bcount': 27, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 6, 'second': 25}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:06:25.561 INFO Startup is finished. Took 1412 milliseconds
+2022-02-09 17:06:27.927 INFO DefaultUser executed command bindec
+2022-02-09 17:06:55.780 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:06:55.787 INFO Loading Appdata
+2022-02-09 17:06:55.803 INFO Appdata initialization is complete
+2022-02-09 17:06:55.816 INFO Updated Appdata with {'besttime': 0, 'bcount': 27, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 6, 'second': 25}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:06:56.105 INFO User is connected to the internet
+2022-02-09 17:06:56.211 INFO Updated Appdata with {'besttime': 0, 'bcount': 28, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 6, 'second': 25}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:06:56.230 INFO Updated Appdata with {'besttime': 0, 'bcount': 28, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 6, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:06:56.252 INFO Startup is finished. Took 459 milliseconds
+2022-02-09 17:06:58.405 INFO DefaultUser executed command bindec
+2022-02-09 17:07:53.232 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:07:53.242 INFO Loading Appdata
+2022-02-09 17:07:53.251 INFO Appdata initialization is complete
+2022-02-09 17:07:53.260 INFO Updated Appdata with {'besttime': 0, 'bcount': 28, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 6, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:07:53.561 INFO User is connected to the internet
+2022-02-09 17:07:53.681 INFO Updated Appdata with {'besttime': 0, 'bcount': 29, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 6, 'second': 56}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:07:53.711 INFO Updated Appdata with {'besttime': 0, 'bcount': 29, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 7, 'second': 53}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:07:53.748 INFO Startup is finished. Took 500 milliseconds
+2022-02-09 17:08:03.250 INFO DefaultUser executed command bindec
+2022-02-09 17:10:00.237 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:10:00.247 INFO Loading Appdata
+2022-02-09 17:10:00.254 INFO Appdata initialization is complete
+2022-02-09 17:10:00.265 INFO Updated Appdata with {'besttime': 0, 'bcount': 29, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 7, 'second': 53}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:10:00.593 INFO User is connected to the internet
+2022-02-09 17:10:00.743 INFO Updated Appdata with {'besttime': 0, 'bcount': 30, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 7, 'second': 53}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:10:00.786 INFO Updated Appdata with {'besttime': 0, 'bcount': 30, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 10, 'second': 0}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:10:00.805 INFO Startup is finished. Took 552 milliseconds
+2022-02-09 17:10:05.472 INFO DefaultUser executed command bindec
+2022-02-09 17:10:47.124 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:10:47.135 INFO Loading Appdata
+2022-02-09 17:10:47.144 INFO Appdata initialization is complete
+2022-02-09 17:10:47.152 INFO Updated Appdata with {'besttime': 0, 'bcount': 30, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 10, 'second': 0}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:10:47.489 INFO User is connected to the internet
+2022-02-09 17:10:47.651 INFO Updated Appdata with {'besttime': 0, 'bcount': 31, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 10, 'second': 0}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:10:47.685 INFO Updated Appdata with {'besttime': 0, 'bcount': 31, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 10, 'second': 47}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:10:47.718 INFO Startup is finished. Took 577 milliseconds
+2022-02-09 17:10:50.490 INFO DefaultUser executed command bindec
+2022-02-09 17:12:05.759 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:12:05.770 INFO Loading Appdata
+2022-02-09 17:12:05.781 INFO Appdata initialization is complete
+2022-02-09 17:12:05.789 INFO Updated Appdata with {'besttime': 0, 'bcount': 31, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 10, 'second': 47}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:12:06.197 INFO User is connected to the internet
+2022-02-09 17:12:06.320 INFO Updated Appdata with {'besttime': 0, 'bcount': 32, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 10, 'second': 47}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:12:06.348 INFO Updated Appdata with {'besttime': 0, 'bcount': 32, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 12, 'second': 6}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:12:06.385 INFO Startup is finished. Took 607 milliseconds
+2022-02-09 17:12:08.080 INFO DefaultUser executed command bindec
+2022-02-09 17:13:51.300 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:13:51.313 INFO Loading Appdata
+2022-02-09 17:13:51.327 INFO Appdata initialization is complete
+2022-02-09 17:13:51.333 INFO Updated Appdata with {'besttime': 0, 'bcount': 32, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 12, 'second': 6}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:13:51.639 INFO User is connected to the internet
+2022-02-09 17:13:51.751 INFO Updated Appdata with {'besttime': 0, 'bcount': 33, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 12, 'second': 6}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:13:51.772 INFO Updated Appdata with {'besttime': 0, 'bcount': 33, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 13, 'second': 51}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:13:51.783 INFO Startup is finished. Took 478 milliseconds
+2022-02-09 17:13:53.129 INFO DefaultUser executed command hexdec
+2022-02-09 17:14:56.819 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:14:56.827 INFO Loading Appdata
+2022-02-09 17:14:56.840 INFO Appdata initialization is complete
+2022-02-09 17:14:56.849 INFO Updated Appdata with {'besttime': 0, 'bcount': 33, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 13, 'second': 51}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:14:57.164 INFO User is connected to the internet
+2022-02-09 17:14:57.298 INFO Updated Appdata with {'besttime': 0, 'bcount': 34, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 13, 'second': 51}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:14:57.329 INFO Updated Appdata with {'besttime': 0, 'bcount': 34, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 14, 'second': 57}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:14:57.362 INFO Startup is finished. Took 527 milliseconds
+2022-02-09 17:15:00.728 INFO DefaultUser executed command hexdec
+2022-02-09 17:18:02.623 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:18:02.676 INFO Loading Appdata
+2022-02-09 17:18:02.688 INFO Appdata initialization is complete
+2022-02-09 17:18:02.696 INFO Updated Appdata with {'besttime': 0, 'bcount': 34, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 14, 'second': 57}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:18:03.027 INFO User is connected to the internet
+2022-02-09 17:18:03.126 INFO Updated Appdata with {'besttime': 0, 'bcount': 35, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 14, 'second': 57}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:18:03.147 INFO Updated Appdata with {'besttime': 0, 'bcount': 35, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 18, 'second': 3}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:18:03.169 INFO Startup is finished. Took 514 milliseconds
+2022-02-09 17:18:41.882 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:18:41.903 INFO Loading Appdata
+2022-02-09 17:18:41.925 INFO Appdata initialization is complete
+2022-02-09 17:18:41.941 INFO Updated Appdata with {'besttime': 0, 'bcount': 35, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 18, 'second': 3}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:18:42.244 INFO User is connected to the internet
+2022-02-09 17:18:42.359 INFO Updated Appdata with {'besttime': 0, 'bcount': 36, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 18, 'second': 3}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:18:42.376 INFO Updated Appdata with {'besttime': 0, 'bcount': 36, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 18, 'second': 42}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:18:42.393 INFO Startup is finished. Took 499 milliseconds
+2022-02-09 17:18:44.983 INFO DefaultUser executed command binhex
+2022-02-09 17:20:31.317 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:20:31.325 INFO Loading Appdata
+2022-02-09 17:20:31.336 INFO Appdata initialization is complete
+2022-02-09 17:20:31.343 INFO Updated Appdata with {'besttime': 0, 'bcount': 36, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 18, 'second': 42}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:20:31.695 INFO User is connected to the internet
+2022-02-09 17:20:31.803 INFO Updated Appdata with {'besttime': 0, 'bcount': 37, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 18, 'second': 42}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:20:31.821 INFO Updated Appdata with {'besttime': 0, 'bcount': 37, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 20, 'second': 31}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:20:31.850 INFO Startup is finished. Took 518 milliseconds
+2022-02-09 17:20:33.695 INFO DefaultUser executed command binhex
+2022-02-09 17:21:10.297 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:21:10.306 INFO Loading Appdata
+2022-02-09 17:21:10.314 INFO Appdata initialization is complete
+2022-02-09 17:21:10.321 INFO Updated Appdata with {'besttime': 0, 'bcount': 37, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 20, 'second': 31}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:21:10.593 INFO User is connected to the internet
+2022-02-09 17:21:10.720 INFO Updated Appdata with {'besttime': 0, 'bcount': 38, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 20, 'second': 31}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:21:10.742 INFO Updated Appdata with {'besttime': 0, 'bcount': 38, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 21, 'second': 10}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:21:10.760 INFO Startup is finished. Took 449 milliseconds
+2022-02-09 17:21:17.175 INFO DefaultUser executed command binhex
+2022-02-09 17:22:07.803 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:22:07.813 INFO Loading Appdata
+2022-02-09 17:22:07.825 INFO Appdata initialization is complete
+2022-02-09 17:22:07.836 INFO Updated Appdata with {'besttime': 0, 'bcount': 38, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 21, 'second': 10}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:22:08.188 INFO User is connected to the internet
+2022-02-09 17:22:08.305 INFO Updated Appdata with {'besttime': 0, 'bcount': 39, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 21, 'second': 10}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:22:08.332 INFO Updated Appdata with {'besttime': 0, 'bcount': 39, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 22, 'second': 8}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:22:08.360 INFO Startup is finished. Took 543 milliseconds
+2022-02-09 17:22:10.383 INFO DefaultUser executed command binhex
+2022-02-09 17:22:49.433 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:22:49.443 INFO Loading Appdata
+2022-02-09 17:22:49.451 INFO Appdata initialization is complete
+2022-02-09 17:22:49.460 INFO Updated Appdata with {'besttime': 0, 'bcount': 39, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 22, 'second': 8}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:22:49.724 INFO User is connected to the internet
+2022-02-09 17:22:49.827 INFO Updated Appdata with {'besttime': 0, 'bcount': 40, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 22, 'second': 8}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:22:49.843 INFO Updated Appdata with {'besttime': 0, 'bcount': 40, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 22, 'second': 49}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:22:49.860 INFO Startup is finished. Took 413 milliseconds
+2022-02-09 17:22:51.635 INFO DefaultUser executed command binhex
+2022-02-09 17:23:42.431 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:23:42.439 INFO Loading Appdata
+2022-02-09 17:23:42.450 INFO Appdata initialization is complete
+2022-02-09 17:23:42.460 INFO Updated Appdata with {'besttime': 0, 'bcount': 40, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 22, 'second': 49}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:23:42.701 INFO User is connected to the internet
+2022-02-09 17:23:42.800 INFO Updated Appdata with {'besttime': 0, 'bcount': 41, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 22, 'second': 49}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:23:42.818 INFO Updated Appdata with {'besttime': 0, 'bcount': 41, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 23, 'second': 42}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:23:42.833 INFO Startup is finished. Took 389 milliseconds
+2022-02-09 17:23:44.796 INFO DefaultUser executed command dechex
+2022-02-09 17:25:52.511 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:25:52.519 INFO Loading Appdata
+2022-02-09 17:25:52.527 INFO Appdata initialization is complete
+2022-02-09 17:25:52.537 INFO Updated Appdata with {'besttime': 0, 'bcount': 41, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 23, 'second': 42}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:25:52.867 INFO User is connected to the internet
+2022-02-09 17:25:53.171 INFO Updated Appdata with {'besttime': 0, 'bcount': 42, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 23, 'second': 42}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:25:53.189 INFO Updated Appdata with {'besttime': 0, 'bcount': 42, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 25, 'second': 53}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:25:53.204 INFO Startup is finished. Took 680 milliseconds
+2022-02-09 17:25:55.471 INFO DefaultUser executed command binhex
+2022-02-09 17:33:36.338 INFO Basic Utilities is starting. Running version 2.26. Issnapshot is True
+2022-02-09 17:33:36.349 INFO Loading Appdata
+2022-02-09 17:33:36.359 INFO Appdata initialization is complete
+2022-02-09 17:33:36.366 INFO Updated Appdata with {'besttime': 0, 'bcount': 42, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 25, 'second': 53}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:33:36.641 INFO User is connected to the internet
+2022-02-09 17:33:36.755 INFO Updated Appdata with {'besttime': 0, 'bcount': 43, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 25, 'second': 53}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:33:36.912 INFO Updated Appdata with {'besttime': 0, 'bcount': 43, 'btime': {'year': 2022, 'month': 2, 'day': 9, 'hour': 17, 'minute': 33, 'second': 36}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': True, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': False, 'legacyStartups': False}
+2022-02-09 17:33:36.947 INFO Startup is finished. Took 590 milliseconds
+2022-02-09 17:33:42.934 INFO DefaultUser executed command hexbin

@@ -1,10 +1,10 @@
 Basic Utilities License
 =======================
 
-Ninth Edition, Second Revision
+Ninth Edition, Fifth Revision
 ---------------------------
 
-Published at 9:14 AM Pacific Standard Time on February 12th, 2022 by
+Published at 19:16 Pacific Standard Time on June 8th, 2022 by
 Enderbyte09. If you agree to these terms and conditions, check the "I
 agree" box, and press Next.
 
@@ -24,6 +24,25 @@ intends to use this software for personal or corporate use only.
 
 "The software" or "This software" refers to Basic Utilities.
 
+Section 0: What you are downloading and installing
+--------------------------------------------------
+By proceeding, you agree to install:
+	Basic Utilities.exe (3.5 MB)
+	Basic Utilities (python 310 standalone) runtime
+	(21 MB)
+	Tcl/Tk Runtime (5 MB)
+	pyinstaller runtime (150 KB)
+	Additional library files (960 KB)
+	Inno setup files (3.6 MB)
+
+	=Application: 3.5 MB
+	=Runtimes: 26.5 MB
+	=Uninstallers: 3.6 MB
+	=Libraries: 1 MB
+
+All runtimes will not create shortcuts and only ensure
+the safe operation of the software
+
 Section 1: Guarantees from the Developer
 ----------------------------------------
 
@@ -31,9 +50,9 @@ Basic Utilities has some first guarantees from the developer.
 
 1.  The Developer promises that Basic Utilities does not contain any
     malware, adware, or any other software that executes code considered
-    "malicious" or annoyoing without the confirmation of the end-user.
-    (eg. Prank command executes annoying code, but the end-user must
-    manually run it)
+    "malicious".
+2. The Developer promises that Basic Utilities does not send any data to
+    advertisers.
 
 Section 2: Information collected by Basic Utilities
 ---------------------------------------------------
@@ -59,8 +78,10 @@ Section 2: Information collected by Basic Utilities
 
 ### Individual information collected by Basic Utilities and sent to Enderbyte Programs
 
-None Note: This does not include third parties, and Enderbyte Programs
-is not responsible for any information collected by third parties
+1. Your IP address
+2. Your OS version
+3. Your Basic Utilities version
+All of this is for purely analytical reasons and is kept confidential.
 
 Third Party Notice
 ------------------
@@ -100,10 +121,15 @@ The following rights are open, or copyleft:
 1.  The ability to access and edit the source code of Basic Utilities
 2.  The right to download Basic Utilities
 
+4: Your responsibilites as user:
+	Do not commit crimes with Basic Utilities. I know that there is an autoclicker and a pinger and a searcher and all sorts of stuff that could be misued.
+
 \#\#Final Clauses
 
 **ENDERBYTE PROGRAMS IS NOT RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER
-FROM BASIC UTILITIES** **ENDERBYTE PROGRAMS IS NOT RESPONSIBLE FOR ANY
+FROM BASIC UTILITIES**
+ **ENDERBYTE PROGRAMS IS NOT RESPONSIBLE FOR ANY
 DAMAGE TO YOUR COMPUTER FROM OTHER PEOPLE USING BASIC UTILITIES**
+
 
 *END TERMS AND CONDITIONS*

@@ -1,5 +1,0 @@
-help,Prints concise Help Menu
-docs,Shows documentation
-stop,Stops Basic Utilities
-setdir,Set the working directory of this program.
-dir,Print the working directory of this program

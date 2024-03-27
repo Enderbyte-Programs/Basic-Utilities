@@ -1,0 +1,276 @@
+-----Basic Utilities Crash Report-----
+HA HA HA HA HA! I CRASH A LOT!
+
+CWD: C:\Users\RubensRahim\Downloads\Basic-Utilities-main
+Platform: Windows
+PlatformVersion: 10.0.22000
+Version: Basic Utilities 2.27 Beta 4
+__name__ : __main__
+__doc__ : None
+__package__ : None
+__loader__ : <_frozen_importlib_external.SourceFileLoader object at 0x0000024A670D49A0>
+__spec__ : None
+__annotations__ : {}
+__builtins__ : <module 'builtins' (built-in)>
+__file__ : C:\Users\RubensRahim\Downloads\Basic-Utilities-main\BasicUtilities.py
+__cached__ : None
+SYSVERSION : 2.27
+SNAPSHOT : True
+SNAPSHOTVERSION : 4
+ASSEMBLEDVERSION : Basic Utilities 2.27 Beta 4
+messagebox : <module 'tkinter.messagebox' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tkinter\\messagebox.py'>
+Tk : <class 'tkinter.Tk'>
+os : <module 'os' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\os.py'>
+toplevelerror : <function toplevelerror at 0x0000024A6B2F1F30>
+consoleask : <function consoleask at 0x0000024A686449D0>
+version : <module 'packaging.version' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\packaging\\version.py'>
+exceptions : <module 'pytube.exceptions' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\exceptions.py'>
+helpers : <module 'pytube.helpers' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\helpers.py'>
+parser : <module 'pytube.parser' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\parser.py'>
+cipher : <module 'pytube.cipher' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\cipher.py'>
+metadata : <module 'pytube.metadata' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\metadata.py'>
+extract : <module 'pytube.extract' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\extract.py'>
+request : <module 'pytube.request' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\request.py'>
+itags : <module 'pytube.itags' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\itags.py'>
+monostate : <module 'pytube.monostate' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\monostate.py'>
+streams : <module 'pytube.streams' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\streams.py'>
+Stream : <class 'pytube.streams.Stream'>
+captions : <module 'pytube.captions' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\captions.py'>
+Caption : <class 'pytube.captions.Caption'>
+query : <module 'pytube.query' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\query.py'>
+CaptionQuery : <class 'pytube.query.CaptionQuery'>
+StreamQuery : <class 'pytube.query.StreamQuery'>
+innertube : <module 'pytube.innertube' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\innertube.py'>
+YouTube : <class 'pytube.__main__.YouTube'>
+contrib : <module 'pytube.contrib' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\pytube\\contrib\\__init__.py'>
+Playlist : <class 'pytube.contrib.playlist.Playlist'>
+Channel : <class 'pytube.contrib.channel.Channel'>
+Search : <class 'pytube.contrib.search.Search'>
+keyboard : <module 'keyboard' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\keyboard\\__init__.py'>
+urllib : <module 'urllib' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\urllib\\__init__.py'>
+termcolor : <module 'termcolor' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\termcolor.py'>
+HASTC : True
+format_tb : <function format_tb at 0x0000024A68647760>
+sys : <module 'sys' (built-in)>
+json : <module 'json' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\json\\__init__.py'>
+INFO : info
+WARN : warn
+ERROR : error
+FATAL : fatal
+log : <function log at 0x0000024A68644A60>
+handle_exception : <function handle_exception at 0x0000024A6B1CD630>
+TclError : <class '_tkinter.TclError'>
+NO : 0
+FALSE : 0
+OFF : 0
+YES : 1
+TRUE : 1
+ON : 1
+N : n
+S : s
+W : w
+E : e
+NW : nw
+SW : sw
+NE : ne
+SE : se
+NS : ns
+EW : ew
+NSEW : nsew
+CENTER : center
+NONE : none
+X : x
+Y : y
+BOTH : both
+LEFT : left
+TOP : top
+RIGHT : right
+BOTTOM : bottom
+RAISED : raised
+SUNKEN : sunken
+FLAT : flat
+RIDGE : ridge
+GROOVE : groove
+SOLID : solid
+HORIZONTAL : horizontal
+VERTICAL : vertical
+NUMERIC : numeric
+CHAR : char
+WORD : word
+BASELINE : baseline
+INSIDE : inside
+OUTSIDE : outside
+SEL : sel
+SEL_FIRST : sel.first
+SEL_LAST : sel.last
+END : end
+INSERT : insert
+CURRENT : current
+ANCHOR : anchor
+ALL : all
+NORMAL : normal
+DISABLED : disabled
+ACTIVE : active
+HIDDEN : hidden
+CASCADE : cascade
+CHECKBUTTON : checkbutton
+COMMAND : command
+RADIOBUTTON : radiobutton
+SEPARATOR : separator
+SINGLE : single
+BROWSE : browse
+MULTIPLE : multiple
+EXTENDED : extended
+DOTBOX : dotbox
+UNDERLINE : underline
+PIESLICE : pieslice
+CHORD : chord
+ARC : arc
+FIRST : first
+LAST : last
+BUTT : butt
+PROJECTING : projecting
+ROUND : round
+BEVEL : bevel
+MITER : miter
+MOVETO : moveto
+SCROLL : scroll
+UNITS : units
+PAGES : pages
+TkVersion : 8.6
+TclVersion : 8.6
+READABLE : 2
+WRITABLE : 4
+EXCEPTION : 8
+EventType : <enum 'EventType'>
+Event : <class 'tkinter.Event'>
+NoDefaultRoot : <function NoDefaultRoot at 0x0000024A6863E320>
+Variable : <class 'tkinter.Variable'>
+StringVar : <class 'tkinter.StringVar'>
+IntVar : <class 'tkinter.IntVar'>
+DoubleVar : <class 'tkinter.DoubleVar'>
+BooleanVar : <class 'tkinter.BooleanVar'>
+mainloop : <function mainloop at 0x0000024A6863E710>
+getint : <class 'int'>
+getdouble : <class 'float'>
+getboolean : <function getboolean at 0x0000024A6863F400>
+Misc : <class 'tkinter.Misc'>
+CallWrapper : <class 'tkinter.CallWrapper'>
+XView : <class 'tkinter.XView'>
+YView : <class 'tkinter.YView'>
+Wm : <class 'tkinter.Wm'>
+Tcl : <function Tcl at 0x0000024A6863F490>
+Pack : <class 'tkinter.Pack'>
+Place : <class 'tkinter.Place'>
+Grid : <class 'tkinter.Grid'>
+BaseWidget : <class 'tkinter.BaseWidget'>
+Widget : <class 'tkinter.Widget'>
+Toplevel : <class 'tkinter.Toplevel'>
+Button : <class 'tkinter.Button'>
+Canvas : <class 'tkinter.Canvas'>
+Checkbutton : <class 'tkinter.Checkbutton'>
+Entry : <class 'tkinter.Entry'>
+Frame : <class 'tkinter.Frame'>
+Label : <class 'tkinter.Label'>
+Listbox : <class 'tkinter.Listbox'>
+Menu : <class 'tkinter.Menu'>
+Menubutton : <class 'tkinter.Menubutton'>
+Message : <class 'tkinter.Message'>
+Radiobutton : <class 'tkinter.Radiobutton'>
+Scale : <class 'tkinter.Scale'>
+Scrollbar : <class 'tkinter.Scrollbar'>
+Text : <class 'tkinter.Text'>
+OptionMenu : <class 'tkinter.OptionMenu'>
+Image : <class 'tkinter.Image'>
+PhotoImage : <class 'tkinter.PhotoImage'>
+BitmapImage : <class 'tkinter.BitmapImage'>
+image_names : <function image_names at 0x0000024A68636290>
+image_types : <function image_types at 0x0000024A6862EA70>
+Spinbox : <class 'tkinter.Spinbox'>
+LabelFrame : <class 'tkinter.LabelFrame'>
+PanedWindow : <class 'tkinter.PanedWindow'>
+get_pixel_color : <function get_pixel_color at 0x0000024A6B1CD6C0>
+tarfile : <module 'tarfile' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tarfile.py'>
+datetime : <module 'datetime' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\datetime.py'>
+winsound : <module 'winsound' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\DLLs\\winsound.pyd'>
+webbrowser : <module 'webbrowser' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\webbrowser.py'>
+platform : <module 'platform' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\platform.py'>
+random : <module 'random' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\random.py'>
+haspkg : True
+sleep : <built-in function sleep>
+playsound : <function _playsoundWin at 0x0000024A6B227010>
+turtle : <module 'turtle' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\turtle.py'>
+threading : <module 'threading' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\threading.py'>
+reqins : True
+filedialog : <module 'tkinter.filedialog' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\tkinter\\filedialog.py'>
+shutil : <module 'shutil' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\shutil.py'>
+subprocess : <module 'subprocess' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\subprocess.py'>
+sw : False
+gamees_played : 0
+gamees_won : 0
+pi : 3.14
+hasarg : False
+playedg2 : False
+hasarg2 : False
+pid : 17316
+forcekill : <function forcekill at 0x0000024A6B1CD750>
+forcekillnl : <function forcekillnl at 0x0000024A6B2F1E10>
+arguments : ['C:\\Users\\RubensRahim\\Downloads\\Basic-Utilities-main\\BasicUtilities.py']
+sysslash : \
+STIME : 2022-02-19 13:58:43.951657
+isported : False
+apt : <_io.TextIOWrapper name='appdata.json' mode='w+' encoding='cp1252'>
+appdat : <_io.TextIOWrapper name='appdata.json' mode='r' encoding='cp1252'>
+APPDATA : {'besttime': 0, 'bcount': 1, 'btime': {'year': 2022, 'month': 2, 'day': 19, 'hour': 13, 'minute': 58, 'second': 45}, 'bday': {'month': None, 'day': None}, 'webhistory': [], 'username': 'DefaultUser', 'showCommandsRun': False, 'gamehealth': 100, 'gamexp': 0, 'startsound': None, 'useDownloadedSounds': True, 'useColouredText': True, 'legacyStartups': False, 'commandsRun': 0, 'restrictions': {'disabled': ['ur mom'], 'note': {'ur mom': 'THOU ART IMMATURE', 'erc': 'This command is outdated.'}}}
+updateappdata : <function updateappdata at 0x0000024A6B2F1EA0>
+get : <function get at 0x0000024A6B54C4C0>
+requests : <module 'requests' from 'C:\\Users\\RubensRahim\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\requests\\__init__.py'>
+xae : True
+tcrash : False
+accessdenied : False
+cmd_run : 0
+CAL : True
+FCON : False
+ewqueo : <Response [200]>
+SYSVERDATA : {'version': '2.26.3', 'link': 'https://github.com/Enderbyte-Programs/Basic-Utilities/releases/download/v2.26.3/basicutilities_2.26.3_installer.exe'}
+MESSAGE : Get vaccinated and wear a mask!!!!!!!!!!
+RESTRICTIONS : {'disabled': ['ur mom'], 'note': {'ur mom': 'THOU ART IMMATURE', 'erc': 'This command is outdated.'}}
+besttime : 0
+bootcount : 0
+error : <function error at 0x0000024A6B54CCA0>
+toplevelquestion : <function toplevelquestion at 0x0000024A6B54CDC0>
+newwindow : <function newwindow at 0x0000024A671483A0>
+conv : <class '__main__.conv'>
+reload : <function reload at 0x0000024A6B54CE50>
+startsound : <function startsound at 0x0000024A6B54C8B0>
+ss_po : <Thread(Thread-1 (startsound), stopped 14324)>
+runfile : <function runfile at 0x0000024A6B54D000>
+sysuser : DefaultUser
+mt : None
+dy : None
+t : 2022-02-19 13:58:45.903076
+p : 2
+o : 19
+y : 2022
+x : 2022-02-19 13:58:45.911222
+a : 2022
+b : 2
+c : 19
+d : 13
+e : 58
+g : 45
+d0 : 2022-02-19 13:58:45
+d1 : 2022-02-19 13:58:45
+diff : 0:00:00
+ts : 0.0
+nua : False
+SYSVERNUM : 2.26.3
+fconv : <class '__main__.fconv'>
+dconv : <class '__main__.dconv'>
+ETIME : 2022-02-19 13:58:45.918119
+stimetotal : 0:00:01.966462
+crashed : False
+command : crash
+note : ('erc', 'This command is outdated.')
+restrict : ur mom
+End of crash report

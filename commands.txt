@@ -1,0 +1,172 @@
+-----Commands List-----
+-----Misc-----
+help: Shows this list
+seelog: View the log
+draw: Draw with Turtle!
+opendraw: Open a .trt file
+credits: View credits.
+contact: Get my email and Discord
+colour: Find a colour
+bday: Input your birthday to get a surprise on startup when it matches
+wb: Visit our website
+lockdown: lockdown your screen until you enter a password
+settings: Change your settings
+rev: Reverse the contents of a file
+stat: Get some statistics of this program.
+usr: change your username
+startsound: Set your startup sound
+anim: Get a little animation of a wheel.
+erc: List of error codes
+cmdrun: See how many commands you have run
+msg: View today's message! (Request messages by sending me an email)
+cver: See the current version
+
+-----USELESS COMMANDS-----
+insult: Get insulted
+prank: try it out :P
+
+-----System Interaction-----
+stop: Stops this window
+stopall: stops all BasicUtilities windows
+reload: reloads this program.
+logoff: Logs you out.
+restart: Restarts your computer
+shutdown: Shutdown your computer
+browser: Open the Basic Utilities Browser.
+dir: Get the directory that this program is installed to
+
+-----Games-----
+game: Play Beat The Bank
+snl: Play Snakes and Ladders [sc]
+m8b: Magic 8 ball
+cpg: Play the Cartesian Plane Game
+game2: Play Discount Prodigy
+
+-----Preset Counters-----
+meter: See how long it has been since COVID infected its first human.(VE COUNTER)
+lnmeter: How long since life was normal?
+progcount: How long since this program existed
+
+-----Clocks & Alarms-----
+alarm: Open the alarm clock
+time: Tells you the exact time
+counter: make a counter
+sw: Stop watch!
+clock: Get an ongoing clock
+timer: Pauseable Timer
+
+-----Random Generators-----
+rng: Random Number Generator
+cf: Coin Flip
+hex: Random Hexadecimal Generator (x16)
+hexbi: Random hexadecabinary generator (x62)
+picker: Make a custom random generator
+cpicker: Random colour picker
+npicker: Random Name Picker (NOT TO BE TAKEN SERIOUSLY)
+tpicker: Random Town Picker (NOT TO BE TAKEN SERIOUSLY)
+fpicker: Get a randomly generated food product name
+rname: Random Ruby Name Generator
+art: Get some random art
+
+-----Utility-----
+lag: Measures your computer's lag.
+randpass: Get a random password.
+encode: encode stuff so no one can read it
+translate: Translate files back to readable
+ping: Ping an IP address
+ip: Get your IPv4 address
+permaping: Ping an IP address indefinitely
+fstat: Read a file and get an statistics report on it in the form of *.*.fstat
+cmd: Execute something on the Command Prompt
+musplay: Play an audio file in the background
+sysplat: Get your system platform, version, etc.
+sysmem: Get some system memory statistics
+folmem: Get memory statistics about a folder. [Warning for big folders]
+filemem: Ge memory statistics about a file
+bumem: Get a statistic about how much of YOUR memory WE are using!
+tsklst: List all task running on the system
+ip6: Get your Ipv6 address
+update: check for updates
+scanall: Get a list of all files in a directory
+tar: Make tar.gz archive
+untar: Uncompress a tar.gz archive
+search: Search folders for files that contain things you input. Warning: Can take up lots of resources!
+speed: How many equations can your computer do in 1 second?
+webdownload: Download a web page to file
+searchext: Search for files with a certain extension
+allext: Get how many files with each extension are in a directory
+allextval: allext, but values are sorted by value instead of alphabetized.
+cputimes: Get some statistics about how much time your CPU has spent doing things.
+cpuper: Get the cpu utilization percentage
+cputimeg: Get a graph of the percentage of time that your CPU is doing something
+cpucount: Get how many cpu cores you have
+clockspeed: Get the cpu clock speed
+vmem: Get how much RAM you have
+pidlen: See how many PIDS you have running
+progmem: See how much RAM Basic Utilities is using
+procmem: See how much RAM any process is using.
+diskspeed: Find out your disk speed
+diran: Get directory statistics and write to file
+te: Open the Text Editor that comes with this program.
+
+-----Calculators & Converters-----
+apv: area, perimeter, and volume calculator [sc]
+tempt: Temperature converter
+degp: degrees to percent
+pdeg: percent to degrees
+pi: Get up to 100 digits of pi
+pa: Add percent
+pr: Remove percent
+pgpa: Percent to GPA
+gpap: GPA to percent
+avg: Get an average calculator
+calc help: Help with the calculator
+calc: Calculator
+quiz: get a multiplication quiz up to 12x12
+decbin: Convert decimal to binary
+dechex: Convert decimal to hexadecimal
+bindec: Convert binary to decimal
+hexdec: Convert hexadecimal to decimal
+binhex: Convert binary to hexadecimal
+hexbin: Convert hexadecimal to binary
+conv len: length converters [sc]
+fibb: Generate the Fibbonacci sequence <-- Spelled wrong but who cares
+prime: Generate all prime numbers up to a number
+sqrpyr: Calculate volume of a rectangular pyramid.
+tripyr: Calculate volume of a triangular pyramid
+emc2: Calcuate th energy(joules) in a given object.
+pyth: Use the pythagorean theorum
+pyth3: Use the 3d pythagorean theorum
+
+-----Uninstalling and cleaning-----
+uninstall: Uninstall this program completely
+clr: Reset Basic Utilities' AppData.
+rem: custom app data reset (you choose)
+cln: Clean up files from old versions that you dont need
+-----Sound-----
+beep: Get a beep
+curse: Have this program curse at you (no actual cursing)
+toneup: Make a rising Tone
+rmg: Random Music Generator
+cmaj: Play the ascending C major scale
+alm: Get a nice beepy alarm
+
+-----YouTube-----
+ytdownload: Download a single video from YouTube
+ytaudio: Download a video's audio only
+ytplaylist: Download every video from a playlist
+ytplaylista: Download all audio from every video on a playlist
+
+There are also some easter egg commands :)
+
+-----Debug-----
+crash: Crash this program by raising a RuntimeError()
+relapdat: Reload the appdata of this program (may cause severe issues!)
+pyterm: Execute Python code
+dumpvar: Dump all variables to a file
+cver: See the current version
+adprintout: Print out appdata
+
+-----Clipboard-----
+clrclp: Clear the clipboard
+clipboard: Write something to the clipboard
